@@ -1,4 +1,4 @@
-gem "bundler", "2.3.24"
+gem "bundler", "2.3.26"
 gem "kramdown-parser-gfm"
 
 source "https://rubygems.org"
